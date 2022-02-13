@@ -16,16 +16,23 @@ This repository contains various sample code for AI/ML Services and custom model
 
 
 ### List Collection: 
-python3 listCollection.py
+`` 
+python3 listCollection.py 
+
+``
 
 ### Create Collection
 Following command will create the collection: 
+
+`` 
 python3 createCollection.py will
-python3 createCollection.py brad
+python3 createCollection.py brad 
+``
 
 
 ### Add Faces in the collection:
 Following is the command to add faces in the collection: 
+`` 
 python3 addFace2Collection.py sanghavc2020 will1.jpg will
 python3 addFace2Collection.py sanghavc2020 will2.jpg will
 python3 addFace2Collection.py sanghavc2020 will3.jpg will
@@ -35,12 +42,14 @@ python3 addFace2Collection.py sanghavc2020 brad1.jpg brad
 python3 addFace2Collection.py sanghavc2020 brad2.jpg brad
 python3 addFace2Collection.py sanghavc2020 brad3.jpg brad
 python3 addFace2Collection.py sanghavc2020 brad4.jpg brad
+``
 
 ### List all faces in the collection: 
 Following command will list all faces in a collection:
+``
 python3 listFaces.py will
 python3 listFaces.py brad
-
+``
 
 ### Search Faces:
 python3 searchFaces.py sanghavc2020 willtest1.jpg
