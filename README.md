@@ -16,15 +16,12 @@ This repository contains various sample code for AI/ML Services and custom model
 
 
 ### List Collection: 
-`` 
-python3 listCollection.py 
-
-``
+``python3 listCollection.py``
 
 ### Create Collection
 Following command will create the collection: 
 
-`` 
+``
 python3 createCollection.py will
 python3 createCollection.py brad 
 ``
